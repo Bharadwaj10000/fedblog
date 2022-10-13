@@ -16,7 +16,7 @@
 
 .Sidebar {
     width: 100%;
-    background-color: #59ce8f;
+    background-color: rebeccapurple;
     height: 1100px;
     
   }
@@ -35,7 +35,7 @@
   
   .SidebarList .row:hover {
     cursor: pointer;
-    background-color: #2eaa68;
+    background-color: rgb(115, 57, 173);
   }
   
 
